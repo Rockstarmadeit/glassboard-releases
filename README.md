@@ -6,7 +6,7 @@ A personal desktop space for daily plans, visual inspiration, mind maps and note
 
 ## Install
 
-1. Open [the latest release](https://github.com/rockstarmadeit/glassboard-releases/releases/latest) and download **Glassboard-1.9.zip** (or the newest Glassboard ZIP).
+1. Open [the latest release](https://github.com/rockstarmadeit/glassboard-releases/releases/latest) and download the **Glassboard ZIP** for that release.
 2. Double-click the ZIP, then drag **Glassboard.app** into **Applications**. Run it from Applications, rather than from inside the ZIP or Downloads.
 3. Open Glassboard. This privately shared build is not notarised with Apple. If macOS blocks it because the developer cannot be verified, follow Apple's instructions: try opening it, then go to **System Settings → Privacy & Security → Open Anyway**, and confirm that you want to open Glassboard. [Apple's instructions](https://support.apple.com/en-gb/102445).
 4. To keep it in your Dock, right-click its Dock icon and choose **Options → Keep in Dock**. Choose **Open at Login** there if you want it to start with your Mac.
@@ -15,7 +15,7 @@ A personal desktop space for daily plans, visual inspiration, mind maps and note
 
 Each person starts with a fresh workspace. Notes, maps, photos, collections and preferences are stored on that person's Mac in `~/Library/Application Support/Glassboard`. This download includes no one else's saved content. No shared workspace account is needed.
 
-The app stays at desktop level, below normal application windows. The small handle at the bottom left lets you move it.
+Drag the empty space in the top bar to move the window. In **Settings**, choose **Desktop** to keep it behind other apps or **Normal** to bring it forward when selected. The default is Desktop.
 
 ## Updates
 
